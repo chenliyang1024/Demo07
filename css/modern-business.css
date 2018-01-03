@@ -6,11 +6,13 @@
 
 body {
   padding-top: 54px;
+  /* text-align: left; */
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
+    /* text-align: left; */
   }
 }
 
