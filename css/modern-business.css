@@ -29,3 +29,8 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.imgSubTitleBlack {
+  color: black;
+  font-weight: 900;
+}
